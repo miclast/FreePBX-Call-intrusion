@@ -1,7 +1,7 @@
 # Intrusion into the call.
 ## Custom Asterisk dial plan for listen, whisper and barge in calls. For FreePBX, Issabel, Asterisk based Elastix call centers.
 
-If you are running a call center on FreePBX or Asterisk, most likely you will want the ability to listen in on agents calls, also known as joining multiple calls, or connected two calls to a manager, or other variations of barging in on a bridged channel.
+If you are running a call center on FreePBX or Asterisk based Issabel (Elastix), most likely you will want the ability to listen in on agents calls, also known as joining multiple calls, or connected two calls to a manager, or other variations of barging in on a bridged channel.
 
 For the purpose of this dial plan, we will define manager as the callee who is the spying channel, agent who is the spied-on channel, and client who is the bridged channel / 3rd party. We define listen, whisper, and barge as follows:
 
